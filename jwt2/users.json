@@ -1,0 +1,12 @@
+[{
+    "username": "drnfall",
+    "password": "password",
+    "email": "darienkentanu@yahoo.com",
+    "group": "admin"
+},
+{
+    "username": "qwerty",
+    "password": "password",
+    "email": "qwerty@gmail.com",
+    "group": "publisher"
+}]
